@@ -105,8 +105,6 @@
 <body>
 <header>
         <nav>
-        <div class="logo">럭셔리 호텔 리뷰</div>
-        <div class="logo">럭셔리 호텔 리뷰</div>
             <div class="logo">럭셔리 호텔 리뷰</div>
             <ul>
                 <li><a href="#">홈</a></li>
